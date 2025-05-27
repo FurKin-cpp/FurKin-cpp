@@ -1,16 +1,35 @@
-## Hi there 👋
+<pre>
 
-<!--
-**FurKin-cpp/FurKin-cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  ______                  _  __  _         
+ |  ____|                | |/ / (_)        
+ | |__     _   _   _ __  | ' /   _   _ __  
+ |  __|   | | | | | '__| |  <   | | | '_ \ 
+ | |      | |_| | | |    | . \  | | | | | |
+ |_|       \__,_| |_|    |_|\_\ |_| |_| |_|
+                                           
+                                           
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+
+ ~> <strong>My Info LOL</strong>
+ I'm a mega stupid person who only knows how to kekw, and I'm also learning to bash
+.mmm I'm Play Garry's Mode.Zenless Zone Zero,Teeworlds
+
+ ~> <strong>Contact</strong>
+  Discrod : FuraFur
+  Telegram : lol i won't tell you
+
+ ~> <strong>PC Config</strong>
+  OC : Ubuntu 25.04
+  GPU : RTX 3050 8 GB
+  CPU Ryzen 5 3600 
+  RAM : 16 GB DDR4
+
+ ~> <strong>Devices</strong>
+  Keyboard : Cidoo QK61
+  Mouse : Lamzu Atlantis
+  Monitor : idk just "ThundeRobot" 165 HZ
+  End lol
+</pre>
