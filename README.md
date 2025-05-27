@@ -14,7 +14,7 @@
 <pre>
 
  ~> <strong>My Info LOL</strong>
- I'm a mega stupid person who only knows how to kekw, and I'm also learning to bash
+ I'm a mega stupid person who only knows how to kekw, and I'm also learning bash and HTML
 .mmm I'm Play Garry's Mode.Zenless Zone Zero,Teeworlds
 
  ~> <strong>Contact</strong>
