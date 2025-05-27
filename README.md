@@ -30,6 +30,6 @@
  ~> <strong>Devices</strong>
   Keyboard : Cidoo QK61
   Mouse : Lamzu Atlantis
-  Monitor : idk just "ThundeRobot" 165 HZ
+  Monitor : idk just "ThundeRobot" 180 HZ
   End lol
 </pre>
